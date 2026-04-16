@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+bin/
+
+# build
+out/
